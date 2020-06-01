@@ -1,0 +1,42 @@
+Final Exam
+PUNTOS TOTALES DE 10
+
+1.Pregunta 1
+When we declare a variable, we need to provide a __________ and a variable name
+data type
+
+2.Pregunta 2
+For data types, C# has value types and ______________ types
+r..
+
+3.Pregunta 3
+The most appropriate way to provide external consumer access to the state of an object is through
+properties
+
+4.Pregunta 4
+The most appropriate way to provide external consumer access to the behavior of an object is through
+methods
+
+5.Pregunta 5
+When we call a static method, we start with the _____________ name
+class
+
+6.Pregunta 6
+Entities in a Unity scene are called
+gameobjects
+
+7.Pregunta 7
+The ______________ method is called every frame in a Unity game
+Update
+
+8.Pregunta 8
+To add force to a game object, we need a ______________ component attached to the game object
+Rigidbody 2D
+
+9.Pregunta 9
+The if and switch statements implement the ______________ control structure
+selection
+
+10.Pregunta 10
+We use the __________________________ class when processing input in Unity
+Input
